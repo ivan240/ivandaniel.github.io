@@ -1,21 +1,22 @@
-Jekyll Themes
+Blog Profesional 
 =============
 
-A directory of the best-looking themes for Jekyll blogs
+Contenido de las clases de Introducción a la Ingeniería de Software
 
 
-Submitting a Theme
+Perfil Profesional de Iván Basurto Delgado
 ------------------
 
-Have a theme you want to share?
-
-* Fork the site on GitHub
-* Create a new post in the `_posts` directory and fill out the relevant YAML fields
-* Make a 250x200 thumbnail and drop it in the thumbnails directory. List its filename in the post's markdown file.
-* Test it out, then push your changes up and open a pull request.
+* Bachiller Polivalente Informático graduado en la Unidad Educativa Fiscal Guayaquil
+* Cursando el Primer Semestre de la Carrera Software en la Universidad de Guayaquil
+* Asistiendo a Cursos de Mantenimiento y Ensaamblaje 
+* Asistiendo a Cursos de Diseño de Páginas Web
 
 
-License
+Contenido de las 2 Unidades de Introduccion a Ingenieria de Software vistas en el Primer Parcial
 -------
 
-The contents of this repository are licensed under the [GNU Public License.](http://www.gnu.org/licenses/gpl-3.0.html)
+Unidad 1: Introducción a la Ingenieria de Software (https://ugye.sharepoint.com/:p:/r/sites/introsoftma-1-8cicloii2019-2020/_layouts/15/Doc.aspx?sourcedoc=%7B2F1FED53-C784-4103-912C-54BC2C2CB200%7D&file=SOF-S-MA-1-UNIDAD-1.pptx&action=edit&mobileredirect=true)
+
+Unidad 2: Procesos del Software (https://ugye.sharepoint.com/:p:/r/sites/introsoftma-1-8cicloii2019-2020/_layouts/15/Doc.aspx?sourcedoc=%7BB84BA25F-CDFE-4DF9-B122-21CD094C967D%7D&file=SOF-S-MA-1-UNIDAD-2.pptx&action=edit&mobileredirect=true)
+
